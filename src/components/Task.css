@@ -1,0 +1,65 @@
+.circle-growth-stats {
+    text-align: center;
+    background-color: #160931; 
+    color: #fff; 
+    height:65vh;
+
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: left;
+    padding-left:70px;
+  }
+  
+  h2 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #9F72FF;
+    text-align: left;
+    padding-left:70px;
+    padding-top: 50px;
+  }
+  
+  .stats-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+  }
+  
+  .stat {
+    display: flex;
+    text-align: center;
+    /* padding: 20px; */
+    padding-left: 80px; 
+     padding-right: 150px; 
+  }
+  
+  .box1 h3 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #9F72FF;
+    margin: 0; 
+    padding-right: 100px;
+  }
+  
+  .box1 p {
+    font-size: 18px;
+    text-align: left;
+    margin: 0;
+  }
+  .stat img{
+    height:120px;
+    width:5px;
+  }
+  .box1 {
+      display: flex;
+      flex-direction: column;
+    /* margin-right: 50px; */
+    margin-left: 20px;
+  }

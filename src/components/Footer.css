@@ -1,0 +1,48 @@
+.alll{
+    background-color: #191129;
+    width: 600vh;
+}
+.alll{
+    display: flex;
+    flex-direction: row;
+    padding-top: 50px;
+}
+
+.ele{
+    display: flex;
+    flex-direction: row;
+    gap:40px;
+padding-left: 200px;
+}
+
+.foo{
+    padding-left: 180px;
+}
+
+.col h4{
+    color: #9F72FF;
+}
+
+.col p{
+    color: white;
+}
+
+.cc {
+    color: white;
+}
+
+.cc h3{
+    color: white;
+}
+
+.cc img{
+    width:150px;
+}
+
+.lastt{
+    background-color: #100821;
+    color: white;
+    text-align: center;
+    height:10vh;
+    padding-top: 20px;
+}

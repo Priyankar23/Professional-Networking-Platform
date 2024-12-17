@@ -1,0 +1,41 @@
+.out {
+  display: flex;
+  gap: 100px;
+  flex-direction: row;
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
+
+.clear {
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+  width:80vh;
+  font-size: 15px;
+}
+
+.tt h1 {
+  padding-top: 50px;
+ padding-left: 300px;
+  color: #091E42;
+}
+
+.question-container {
+  display: flex;
+  justify-content: space-between;
+  gap:20px; 
+}
+
+.button-container {
+  display: flex;
+  justify-content: center; 
+  height:3vh;
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.collapse-content{
+ margin-right: 200px;
+  justify-content: center; 
+}

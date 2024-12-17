@@ -1,0 +1,26 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+    gap: 20px;
+    background-color: whitesmoke;
+    padding-left: 100px;
+    padding-right: 100px;;
+    padding-bottom: 100px;
+}
+.box{
+    text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: white;
+  border-radius: 5px;
+   width: 250px;
+   position: relative;
+}
+.box img{
+    width: 30px;
+  height: 50px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+

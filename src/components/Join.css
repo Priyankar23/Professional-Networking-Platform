@@ -1,0 +1,68 @@
+.mean h1{
+    text-align: center;
+    color: #091E42;
+}
+.mean p{
+    text-align: center;
+    font-size: 12px;
+}
+.mean{
+    padding-top: 100px;
+}
+.store{
+    display: flex;
+    flex-direction: column;
+}
+.pay{
+    border: 1px solid #DFE2E6;
+    border-radius: 20px;
+    width: 300px;
+    background-color:#FAFBFB;
+}
+.pay1{
+    border: 1px solid #DFE2E6;
+    border-radius: 20px;
+    width: 300px;
+    background-color: #FAFBFB;
+}
+.pay p{
+    text-align: center;
+}
+.pay1 p{
+    text-align: center;
+}
+.store1{
+    display: flex;
+    flex-direction: column;
+}
+.contains{
+    display: flex;
+    flex-direction: row;
+    padding-left: 350px;
+    gap:10px;
+    padding-top:50px;
+    height:400px;
+}
+.port img{
+    height:35vh;
+    width:80%;
+    padding-top: 25px;
+    padding-left: 20px;
+}
+.abc img{
+height:5vh;
+padding-top: 20px;
+padding-left: 10px;
+}
+
+.port1 img{
+    height:35vh;
+    width:80%;
+    padding-top: 25px;
+    padding-left: 40px;
+}
+.bcd img{
+height:5vh;
+padding-top: 20px;
+padding-left: 80px;
+}

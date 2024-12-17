@@ -1,0 +1,27 @@
+.pic img{
+   padding: 0px;
+   border: none;
+   width:50%;
+   margin-left: 350px;
+ 
+}
+.vc p{
+    font-size: 12px;
+    font-family: sans-serif;
+    padding-top: 20px;
+    text-align: center;
+}
+.long{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    margin-left: 350px;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+.long img {
+    width: 60px;
+}
+.vc{
+    background-color: whitesmoke;
+}
